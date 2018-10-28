@@ -35,10 +35,10 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#026,Raichu,-----,Electric,-----,Static,-----,Lightningrod,-----,Field,Fairy,60,90,55,90,80,110,485,YES,YES
 ,#027,Sandshrew,-----,Ground,-----,Sand Veil,-----,Sand Rush,Level Up - 22,Field,-----,50,75,85,20,30,40,300,YES,YES
 ,#028,Sandslash,-----,Ground,-----,Sand Veil,-----,Sand Rush,-----,Field,-----,75,100,110,45,55,65,450,YES,YES
-,#029,Nidoran���,-----,Poison,-----,Poison Point,Rivalry,Hustle,Level Up - 16,Monster,Field,55,47,52,40,40,41,275,YES,NO
+,#029,Nidoran (female),-----,Poison,-----,Poison Point,Rivalry,Hustle,Level Up - 16,Monster,Field,55,47,52,40,40,41,275,YES,NO
 ,#030,Nidorina,-----,Poison,-----,Poison Point,Rivalry,Hustle,Moon Stone,-----,-----,70,62,67,55,55,56,365,YES,NO
 ,#031,Nidoqueen,-----,Poison,Ground,Poison Point,Rivalry,Sheer Force,-----,-----,-----,90,92,87,75,85,76,505,YES,NO
-,#032,Nidoran���,-----,Poison,-----,Poison Point,Rivalry,Hustle,Level Up - 16,Monster,Field,46,57,40,40,40,50,273,YES,NO
+,#032,Nidoran (male),-----,Poison,-----,Poison Point,Rivalry,Hustle,Level Up - 16,Monster,Field,46,57,40,40,40,50,273,YES,NO
 ,#033,Nidorino,-----,Poison,-----,Poison Point,Rivalry,Hustle,Moon Stone,Monster,Field,61,72,57,55,55,65,365,YES,NO
 ,#034,Nidoking,-----,Poison,Ground,Poison Point,Rivalry,Sheer Force,-----,Monster,Field,81,102,77,85,75,85,505,YES,NO
 ,#173,Cleffa,-----,Fairy,-----,Cute Charm,Magic Guard,Friend Guard,Level Up - Friendship,-----,-----,50,25,28,45,55,15,218,YES,YES
@@ -182,7 +182,7 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#133,Eevee,-----,Normal,-----,Run Away,Adaptability,Anticipation,Level Up - Friendship Night,Field,-----,55,55,50,45,65,55,325,YES,YES
 ,#133,Eevee,-----,Normal,-----,Run Away,Adaptability,Anticipation,Level Up - At Moss Rock,Field,-----,55,55,50,45,65,55,325,YES,YES
 ,#133,Eevee,-----,Normal,-----,Run Away,Adaptability,Anticipation,Level Up - At Icy Rock,Field,-----,55,55,50,45,65,55,325,YES,YES
-,#133,Eevee,-----,Normal,-----,Run Away,Adaptability,Anticipation,"Level Up - 2 Affec., w/Fairy move",Field,-----,55,55,50,45,65,55,325,YES,YES
+,#133,Eevee,-----,Normal,-----,Run Away,Adaptability,Anticipation,"Level Up - 2 Affec. w/Fairy move",Field,-----,55,55,50,45,65,55,325,YES,YES
 ,#134,Vaporeon,-----,Water,-----,Water Absorb,-----,Hydration,-----,Field,-----,130,65,60,110,95,65,525,YES,YES
 ,#135,Jolteon,-----,Electric,-----,Volt Absorb,-----,Quick Feet,-----,Field,-----,65,65,60,110,95,130,525,YES,YES
 ,#136,Flareon,-----,Fire,-----,Flash Fire,-----,Guts,-----,Field,-----,65,130,60,95,110,65,525,YES,YES
@@ -241,8 +241,8 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#181,Ampharos,-----,Electric,-----,Static,-----,Plus,-----,Monster,Field,90,75,85,115,90,55,510,YES,NO
 ,#181,Ampharos,Mega,Electric,Dragon,Mold Breaker,-----,-----,-----,-----,-----,90,95,105,165,110,45,610,YES,YES
 ,#298,Azurill,-----,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,Level Up - Friendship,-----,-----,50,20,40,20,40,20,190,YES,YES
-,#183,Marill,-----,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Level Up - 18,Water 1,FAiry,70,20,50,20,50,40,250,YES,YES
-,#184,Azumarill,-----,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,-----,Water 1,FAiry,100,50,80,60,80,50,420,YES,YES
+,#183,Marill,-----,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Level Up - 18,Water 1,Fairy,70,20,50,20,50,40,250,YES,YES
+,#184,Azumarill,-----,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,-----,Water 1,Fairy,100,50,80,60,80,50,420,YES,YES
 ,#438,Bonsly,-----,Rock,-----,Sturdy,Rock Head,Rattled,Level Up - w/Mimic,-----,-----,50,80,95,10,45,10,290,YES,NO
 ,#185,Sudowoodo,-----,Rock,-----,Sturdy,Rock Head,Rattled,-----,Mineral,-----,70,100,115,30,65,30,410,YES,NO
 ,#187,Hoppip,-----,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Level Up - 18,Fairy,Grass,35,35,40,35,55,50,250,YES,NO
@@ -267,7 +267,7 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#204,Pineco,-----,Bug,-----,Sturdy,-----,Overcoat,Level Up - 31,Bug,-----,50,65,90,35,35,15,290,YES,YES
 ,#205,Forretress,-----,Bug,Steel,Sturdy,-----,Overcoat,-----,Bug,-----,75,90,140,60,60,40,465,YES,YES
 ,#206,Dunsparce,-----,Normal,-----,Serene Grace,Run Away,Rattled,-----,Field,-----,100,70,70,65,65,45,415,YES,NO
-,#207,Gligar,-----,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,"Level Up - w/Razor Fang, Night",Bug,-----,65,75,105,35,65,85,430,YES,NO
+,#207,Gligar,-----,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,"Level Up - w/Razor Fang at Night",Bug,-----,65,75,105,35,65,85,430,YES,NO
 ,#472,Gliscor,-----,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,-----,Bug,-----,75,95,125,45,75,95,510,YES,NO
 ,#209,Snubbull,-----,Fairy,-----,Intimidate,Run Away,Rattled,Level Up - 23,Field,Fairy,60,80,50,40,40,30,300,YES,NO
 ,#210,Granbull,-----,Fairy,-----,Intimidate,Quick Feet,Rattled,-----,Field,Fairy,90,120,75,60,60,45,450,YES,NO
@@ -275,7 +275,7 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#213,Shuckle,-----,Bug,Rock,Sturdy,Gluttony,Contrary,-----,Bug,-----,20,10,230,10,230,5,505,YES,NO
 ,#214,Heracross,-----,Bug,Fighting,Swarm,Guts,Moxie,-----,Bug,-----,80,125,75,40,95,85,500,YES,YES
 ,#214,Heracross,Mega,Bug,Fighting,Skill Link,-----,-----,-----,-----,-----,80,185,115,40,105,75,600,YES,YES
-,#215,Sneasel,-----,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,"Level Up - w/Razor Fang, Night",Field,-----,55,95,55,35,75,115,430,YES,NO
+,#215,Sneasel,-----,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,"Level Up - w/Razor Claw at Night",Field,-----,55,95,55,35,75,115,430,YES,NO
 ,#461,Weavile,-----,Dark,Ice,Pressure,-----,Pickpocket,-----,Field,-----,70,120,65,45,85,125,510,YES,NO
 ,#216,Teddiursa,-----,Normal,-----,Pickup,Quick Feet,Honey Gather,Level Up - 30,Field,-----,60,80,50,50,50,40,330,YES,NO
 ,#217,Ursaring,-----,Normal,-----,Guts,Quick Feet,Unnerve,-----,Field,-----,90,130,75,75,75,55,500,YES,NO
@@ -342,7 +342,7 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#279,Pelipper,-----,Water,Flying,Keen Eye,-----,Rain Dish,-----,Water 1,Flying,60,50,100,85,70,65,430,YES,YES
 ,#280,Ralts,-----,Psychic,Fairy,Synchronize,Trace,Telepathy,Level Up - 20,Amorphous,-----,28,25,25,45,35,40,198,YES,YES
 ,#281,Kirlia,-----,Psychic,Fairy,Synchronize,Trace,Telepathy,Level Up - 30,Amorphous,-----,38,35,35,65,55,50,278,YES,YES
-,#281,Kirlia,-----,Psychic,Fairy,Synchronize,Trace,Telepathy,"Male, Dawn Stone",Amorphous,-----,38,35,35,65,55,50,278,YES,YES
+,#281,Kirlia,-----,Psychic,Fairy,Synchronize,Trace,Telepathy,"Dawn Stone - Male Only",Amorphous,-----,38,35,35,65,55,50,278,YES,YES
 ,#282,Gardevoir,-----,Psychic,Fairy,Synchronize,Trace,Telepathy,-----,Amorphous,-----,68,65,65,125,115,80,518,YES,YES
 ,#282,Gardevoir,Mega,Psychic,Fairy,Pixilate,-----,-----,-----,-----,-----,68,85,65,165,135,100,618,YES,YES
 ,#475,Gallade,-----,Psychic,Fighting,Steadfast,-----,Justified,-----,Amorphous,-----,68,125,65,65,115,80,518,YES,YES
@@ -441,7 +441,7 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#359,Absol,-----,Dark,-----,Pressure,Super Luck,Justified,-----,Field,-----,65,130,60,75,60,75,465,YES,YES
 ,#359,Absol,Mega,Dark,-----,Magic Bounce,-----,-----,-----,-----,-----,65,150,60,115,60,115,565,YES,YES
 ,#361,Snorunt,-----,Ice,-----,Inner Focus,Ice Body,Moody,Level Up - 42,Fairy,Mineral,50,50,50,50,50,50,300,YES,YES
-,#361,Snorunt,-----,Ice,-----,Inner Focus,Ice Body,Moody,"Female, Dawn Stone",Fairy,Mineral,50,50,50,50,50,50,300,YES,YES
+,#361,Snorunt,-----,Ice,-----,Inner Focus,Ice Body,Moody,"Dawn Stone - Female Only",Fairy,Mineral,50,50,50,50,50,50,300,YES,YES
 ,#362,Glalie,-----,Ice,-----,Inner Focus,Ice Body,Moody,-----,Fairy,Mineral,80,80,80,80,80,80,480,YES,YES
 ,#362,Glalie,Mega,Ice,-----,Refrigerate,-----,-----,-----,-----,-----,80,120,80,120,80,100,580,NO,YES
 ,#478,Froslass,-----,Ice,Ghost,Snow Cloak,-----,Cursed Body,-----,Fairy,Mineral,70,80,70,80,70,110,480,YES,YES
@@ -476,8 +476,8 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#384,Rayquaza,-----,Dragon,Flying,Air Lock,-----,-----,-----,-----,-----,105,150,90,150,90,95,680,NO,YES
 ,#384,Rayquaza,Mega,Dragon,Flying,Delta Stream,-----,-----,-----,-----,-----,105,180,100,180,100,115,780,NO,YES
 ,#385,Jirachi,-----,Steel,Psychic,Serene Grace,-----,-----,-----,-----,-----,100,100,100,100,100,100,600,NO,NO
-,#386,Deoxys,Normal,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,180,20,180,20,150,600,NO,YES
-,#386,Deoxys,Attack,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,150,50,150,50,150,600,NO,YES
+,#386,Deoxys,Normal,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,150,50,150,50,150,600,NO,YES
+,#386,Deoxys,Attack,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,180,20,180,20,150,600,NO,YES
 ,#386,Deoxys,Defense,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,70,160,70,160,90,600,NO,YES
 ,#386,Deoxys,Speed,Psychic,-----,Pressure,-----,-----,-----,-----,-----,50,95,90,95,90,180,600,NO,YES
 ,#387,Turtwig,-----,Grass,-----,Overgrow,-----,Shell Armor,Level Up - 18,Monster,Grass,55,68,64,45,55,31,318,NO,YES
