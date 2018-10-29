@@ -354,8 +354,8 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#287,Slakoth,-----,Normal,-----,Truant,-----,-----,Level Up - 18,Field,-----,60,60,60,35,35,30,280,NO,YES
 ,#288,Vigoroth,-----,Normal,-----,Vital Spirit,-----,-----,Level Up - 36,Field,-----,80,80,80,55,55,90,440,NO,YES
 ,#289,Slaking,-----,Normal,-----,Truant,-----,-----,-----,Field,-----,150,160,100,95,65,100,670,NO,YES
-,#290,Nincada,-----,Bug,Ground,Compoundeyes,-----,Run Away,Level Up - 20 & For Shedinja;,Bug,-----,31,45,90,30,30,40,266,YES,YES
-,#290,Nincada,-----,Bug,Ground,Compoundeyes,-----,Run Away,Extra Poke Ball & party slot,Bug,-----,31,45,90,30,30,40,266,YES,YES
+,#290,Nincada,-----,Bug,Ground,Compoundeyes,-----,Run Away,Level Up - 20,Bug,-----,31,45,90,30,30,40,266,YES,YES
+,#290,Nincada,-----,Bug,Ground,Compoundeyes,-----,Run Away,Level Up - 20 w/Extra Poke Ball & Party Slot,Bug,-----,31,45,90,30,30,40,266,YES,YES
 ,#291,Ninjask,-----,Bug,Flying,Speed Boost,-----,Infiltrator,-----,Bug,-----,61,90,45,50,50,160,456,YES,YES
 ,#292,Shedinja,-----,Bug,Ghost,Wonder Guard,-----,-----,-----,Bug,-----,1,90,45,30,30,40,236,YES,YES
 ,#293,Whismur,-----,Normal,-----,Soundproof,-----,Rattled,Level Up - 20,Monster,Field,64,51,23,51,23,28,240,YES,YES
@@ -820,3 +820,104 @@ CAUGHT,DEX#,POKEMON ,FORM,TYPE 1,TYPE 2,ABILITIES 1,ABILITIES 2,HIDDEN ABILITY,E
 ,#719,Diancie,Mega,Rock,Fairy,Magic Bounce,-----,-----,-----,-----,-----,50,160,110,160,110,110,700,NO,YES
 ,#720,Hoopa,-----,Psychic,Ghost,Magician,-----,-----,-----,-----,-----,80,110,60,150,130,70,600,NO,NO
 ,#721,Volcanion,-----,Fire,Water,Water Absorb,-----,-----,-----,-----,-----,80,110,120,130,90,70,600,NO,NO
+,#722,Rowlet,-----,Grass,Flying,Overgrow,-----,Long Reach,Level Up - 17,Flying,-----,68,55,55,50,50,42,320,NO,NO
+,#723,Dartrix,-----,Grass,Flying,Overgrow,-----,Long Reach,Level Up - 34,Flying,-----,78,75,75,70,70,52,420,NO,NO
+,#724,Decidueye,-----,Grass,Ghost,Overgrow,-----,Long Reach,-----,Flying,-----,78,107,75,100,100,70,530,NO,NO
+,#725,Litten,-----,Fire,-----,Blaze,-----,Intimidate,Level Up - 17,Field,-----,45,65,40,60,40,70,320,NO,NO
+,#726,Torracat,-----,Fire,-----,Blaze,-----,Intimidate,Level Up - 34,Field,-----,65,85,50,80,50,90,420,NO,NO
+,#727,Incineroar,-----,Fire,Dark,Blaze,-----,Intimidate,-----,Field,-----,95,115,90,80,90,60,530,NO,NO
+,#728,Popplio,-----,Water,-----,Torrent,-----,Liquid Voice,Level Up - 17,Water 1,Field,50,54,54,56,66,40,320,NO,NO
+,#729,Brionne,-----,Water,-----,Torrent,-----,Liquid Voice,Level Up - 34,Water 1,Field,60,69,69,91,81,50,420,NO,NO
+,#730,Primarina,-----,Water,Fairy,Torrent,-----,Liquid Voice,-----,Water 1,Field,80,74,74,126,116,60,530,NO,NO
+,#731,Pikipek,-----,Normal,Flying,Keen Eye,Skill Link,Pickup,Level Up - 14,Flying,-----,35,75,30,30,30,65,265,NO,NO
+,#732,Trumbeak,-----,Normal,Flying,Keen Eye,Skill Link,Pickup,Level Up - 28,Flying,-----,55,85,50,40,50,75,355,NO,NO
+,#733,Toucannon,-----,Normal,Flying,Keen Eye,Skill Link,Sheer Force,-----,Flying,-----,80,120,75,75,75,60,485,NO,NO
+,#734,Yungoos,-----,Normal,-----,Stakeout,Strong Jaw,Adaptability,Level Up - 20 Day,Field,-----,48,70,30,30,30,45,253,NO,NO
+,#735,Gumshoos,-----,Normal,-----,Stakeout,Strong Jaw,Adaptability,-----,Field,-----,88,110,60,55,60,45,418,NO,NO
+,#736,Grubbin,-----,Bug,-----,Swarm,-----,-----,Level Up - 20,Bug,-----,47,62,45,55,45,46,300,NO,NO
+,#737,Charjabug,-----,Bug,Electric,Battery,-----,-----,Level Up at Charge Mountain,Bug,-----,57,82,95,55,75,36,400,NO,NO
+,#738,Vikavolt,-----,Bug,Electric,Levitate,-----,-----,-----,Bug,-----,77,70,90,145,75,43,500,NO,NO
+,#739,Crabrawler,-----,Fighting,-----,Hyper Cutter,Iron Fist,Anger Point,Level Up at Mount Lanakila,Water 3,-----,47,82,57,42,47,63,338,NO,NO
+,#740,Crabominable,-----,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,-----,Water 3,-----,97,132,77,62,67,43,478,NO,NO
+,#741,Oricorio,Baile,Fire,Flying,Dancer,-----,-----,-----,Flying,-----,75,70,70,98,70,93,476,NO,NO
+,#741,Oricorio,Pom-Pom,Electric,Flying,Dancer,-----,-----,-----,Flying,-----,75,70,70,98,70,93,476,NO,NO
+,#741,Oricorio,Pa'u,Psychic,Flying,Dancer,-----,-----,-----,Flying,-----,75,70,70,98,70,93,476,NO,NO
+,#741,Oricorio,Sensu,Ghost,Flying,Dancer,-----,-----,-----,Flying,-----,75,70,70,98,70,93,476,NO,NO
+,#742,Cutiefly,-----,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,Level Up - 25,Bug,Fairy,40,45,40,55,40,84,304,NO,NO
+,#743,Ribombee,-----,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,-----,Bug,Fairy,60,55,60,95,70,124,464,NO,NO
+,#744,Rockruff,-----,Rock,-----,Keen Eye,Vital Spirit,Steadfast,Level Up - 25 Night,Field,-----,45,65,40,30,40,60,280,NO,NO
+,#744,Rockruff,-----,Rock,-----,Keen Eye,Vital Spirit,Steadfast,Level Up - 25 Day,Field,-----,45,65,40,30,40,60,280,NO,NO
+,#744,Rockruff,Own Tempo,Rock,-----,Own Tempo,-----,-----,Level Up - 25 Night,Field,-----,45,65,40,30,40,60,280,NO,NO
+,#744,Rockruff,Own Tempo,Rock,-----,Own Tempo,-----,-----,Level Up - 25 Day,Field,-----,45,65,40,30,40,60,280,NO,NO
+,#744,Rockruff,Own Tempo,Rock,-----,Own Tempo,-----,-----,Level Up - 25 Dusk,Field,-----,45,65,40,30,40,60,280,NO,NO
+,#745,Lycanroc,Midday,-----,-----,Keen Eye,Sand Rush,-----,-----,Field,-----,75,115,65,55,65,112,487,NO,NO
+,#745,Lycanroc,Midnight,-----,-----,Keen Eye,Vital Spirit,-----,-----,Field,-----,85,115,75,55,75,82,487,NO,NO
+,#745,Lycanroc,Dusk,-----,-----,Tough Claws,-----,-----,-----,Field,-----,75,117,65,55,65,110,487,NO,NO
+,#746,Wishiwashi,Solo,Water,-----,Schooling,-----,-----,-----,Water 2,-----,45,20,20,25,25,40,175,NO,NO
+,#746,Wishiwashi,Schooling,Water,-----,Schooling,-----,-----,-----,Water 2,-----,45,140,130,140,135,30,620,NO,NO
+,#747,Mareanie,-----,Poison,Water,Merciless,Limber,Regenerator,Level Up - 38,Water 1,-----,50,53,62,43,52,45,305,NO,NO
+,#748,Toxapex,-----,Poison,Water,Merciless,Limber,Regenerator,-----,Water 1,-----,50,63,152,53,142,35,495,NO,NO
+,#749,Mudbray,-----,Ground,-----,Own Tempo,Stamina,Inner Focus,Level Up - 30,Field,-----,70,100,70,45,55,45,385,NO,NO
+,#750,Mudsdale,-----,Ground,-----,Own Tempo,Stamina,Inner Focus,-----,Field,-----,100,125,100,55,85,35,500,NO,NO
+,#751,Dewpider,-----,Water,Bug,Water Bubble,-----,Water Absorb,Level Up - 22,Water 1,Bug,38,40,52,40,72,27,269,NO,NO
+,#752,Araquanid,-----,Water,Bug,Water Bubble,-----,Water Absorb,-----,Water 1,Bug,68,70,92,50,132,42,454,NO,NO
+,#753,Fomantis,-----,Grass,-----,Leaf Guard,-----,Contrary,Level Up - 34 Day,Grass,-----,40,55,35,50,35,35,250,NO,NO
+,#754,Lurantis,-----,Grass,-----,Leaf Guard,-----,Contrary,-----,Grass,-----,70,105,90,80,90,45,480,NO,NO
+,#755,Morelull,-----,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Level Up - 24,Grass,-----,40,35,55,65,75,15,285,NO,NO
+,#756,Shiinotic,-----,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,-----,Grass,-----,60,45,80,90,100,30,405,NO,NO
+,#757,Salandit,-----,Poison,Fire,Corrosion,-----,Oblivious,Level Up - 33 Female Only,Monster,Dragon,48,44,40,71,40,77,320,NO,NO
+,#758,Salazzle,-----,Poison,Fire,Corrosion,-----,Oblivious,-----,Monster,Dragon,68,64,60,111,60,117,480,NO,NO
+,#759,Stufful,-----,Normal,Fighting,Fluffy,Klutz,Cute Charm,Level Up - 27,Field,-----,70,75,50,45,50,50,340,NO,NO
+,#760,Bewear,-----,Normal,Fighting,Fluffy,Klutz,Unnerve,-----,Field,-----,120,125,80,55,60,60,500,NO,NO
+,#761,Bounsweet,-----,Grass,,Leaf Guard,Oblivious,Sweet Veil,Level Up - 18,Grass,-----,42,30,38,30,38,32,210,NO,NO
+,#762,Steenee,-----,Grass,-----,Leaf Guard,Oblivious,Sweet Veil,Level Up - w/Stomp,Grass,-----,52,40,48,40,48,62,290,NO,NO
+,#763,Tsareena,-----,Grass,-----,Leaf Guard,Queenly Majesty,Sweet Veil,-----,Grass,-----,72,120,98,50,98,72,510,NO,NO
+,#764,Comfey,-----,Fairy,-----,Flower Veil,Triage,Natural Cure,-----,Grass,-----,51,52,90,82,110,100,485,NO,NO
+,#765,Oranguru,-----,Normal,Psychic,Inner Focus,Telepathy,-----,-----,Field,-----,90,60,80,90,110,60,490,NO,NO
+,#766,Passimian,-----,Fighting,-----,Receiver,-----,-----,-----,Field,-----,100,120,90,40,60,80,490,NO,NO
+,#767,Wimpod,-----,Bug,Water,Wimp Out,-----,-----,Level Up - 30,Bug,Water 3,25,35,40,20,30,80,230,NO,NO
+,#768,Golisopod,-----,Bug,Water,Emergency Exit,-----,-----,-----,Bug,Water 3,75,125,140,60,90,40,530,NO,NO
+,#769,Sandygast,-----,Ghost,Ground,Water Compaction,-----,Sand Veil,Level Up - 42,Amorphous,-----,55,55,80,70,45,15,320,NO,NO
+,#770,Palossand,-----,Ghost,Ground,Water Compaction,-----,Sand Veil,-----,Amorphous,-----,85,75,110,100,75,35,480,NO,NO
+,#771,Pyukumuku,-----,Water,-----,Innards Out,-----,Unaware,-----,Water 1,-----,55,60,130,30,130,5,410,NO,NO
+,#772,Type: Null,-----,Normal,-----,Battle Armor,-----,-----,Level Up - Friendship,-----,-----,95,95,95,95,95,59,534,NO,NO
+,#773,Silvally,-----,Normal,-----,RKS System,-----,-----,-----,-----,-----,95,95,95,95,95,95,570,NO,NO
+,#774,Minior,Meteor,Rock,Flying,Shields Down,-----,-----,-----,Mineral,-----,60,60,100,60,100,60,440,NO,NO
+,#774,Minior,Core,Rock,Flying,Shields Down,-----,-----,-----,Mineral,-----,60,100,60,100,60,120,500,NO,NO
+,#775,Komala,-----,Normal,-----,Comatose,-----,-----,-----,Field,-----,65,115,65,75,95,65,480,NO,NO
+,#776,Turtonator,-----,Fire,Dragon,Shell Armor,-----,-----,-----,Monster,Dragon,60,78,135,91,85,36,485,NO,NO
+,#777,Togedemaru,-----,Electric,Steel,Iron Barbs,Lightningrod,Sturdy,-----,Field,Fairy,65,98,63,40,73,96,435,NO,NO
+,#778,Mimikyu,-----,Ghost,Fairy,Disguise,-----,-----,-----,Amorphous,-----,55,90,80,50,105,96,476,NO,NO
+,#779,Bruxish,-----,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,-----,Water 2,-----,68,105,70,70,70,92,475,NO,NO
+,#780,Drampa,-----,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,-----,Monster,Dragon,78,60,85,135,91,36,485,NO,NO
+,#781,Dhelmise,-----,Ghost,Grass,Steelworker,-----,-----,-----,Mineral,-----,70,131,100,86,90,40,517,NO,NO
+,#782,Jangmo-o,-----,Dragon,-----,Bulletproof,Soundproof,Overcoat,Level Up - 35,Dragon,-----,45,55,65,45,45,45,300,NO,NO
+,#783,Hakamo-o,-----,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Level Up - 45,Dragon,-----,55,75,90,65,70,65,420,NO,NO
+,#784,Kommo-o,-----,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,-----,Dragon,-----,75,110,125,100,105,85,600,NO,NO
+,#785,Tapu Koko,-----,Electric,Fairy,Electric Surge,-----,-----,-----,-----,-----,70,115,85,95,75,130,570,NO,NO
+,#786,Tapu Lele,-----,Psychic,Fairy,Psychic Surge,-----,-----,-----,-----,-----,70,85,75,130,115,95,570,NO,NO
+,#787,Tapu Bulu,-----,Grass,Fairy,Grass Surge,-----,-----,-----,-----,-----,70,130,115,85,95,75,570,NO,NO
+,#788,Tapu Fini,-----,Water,Fairy,Misty Surge,-----,-----,-----,-----,-----,70,75,115,95,130,85,570,NO,NO
+,#789,Cosmog,-----,Psychic,-----,Unaware,-----,-----,Level Up - 43,-----,-----,43,29,31,29,31,37,200,NO,NO
+,#790,Cosmoem,-----,Psychic,-----,Sturdy,-----,-----,Level Up - 53 in Pokemon Sun,-----,-----,43,29,131,29,131,37,400,NO,NO
+,#790,Cosmoem,-----,Psychic,-----,Sturdy,-----,-----,Level Up - 53 in Pokemon Moon,-----,-----,43,29,131,29,131,37,400,NO,NO
+,#791,Solgaleo,-----,Psychic,Steel,Full Metal Body,-----,-----,-----,-----,-----,137,137,107,113,89,97,680,NO,NO
+,#792,Lunala,-----,Psychic,Ghost,Shadow Shield,-----,-----,-----,-----,-----,137,113,89,137,107,97,680,NO,NO
+,#793,Nihilego,-----,Rock,Poison,Beast Boost,-----,-----,-----,-----,-----,109,53,47,127,131,103,570,NO,NO
+,#794,Buzzwole,-----,Bug,Fighting,Beast Boost,-----,-----,-----,-----,-----,107,139,139,53,53,79,570,NO,NO
+,#795,Pheromosa,-----,Bug,Fighting,Beast Boost,-----,-----,-----,-----,-----,71,137,37,137,37,151,570,NO,NO
+,#796,Xurkitree,-----,Electric,-----,Beast Boost,-----,-----,-----,-----,-----,83,89,71,173,71,83,570,NO,NO
+,#797,Celesteela,-----,Steel,Flying,Beast Boost,-----,-----,-----,-----,-----,97,101,103,107,101,61,570,NO,NO
+,#798,Kartana,-----,Grass,Steel,Beast Boost,-----,-----,-----,-----,-----,59,181,131,59,31,109,570,NO,NO
+,#799,Guzzlord,-----,Dark,Dragon,Beast Boost,-----,-----,-----,-----,-----,223,101,53,97,53,43,570,NO,NO
+,#800,Necrozma,-----,Psychic,-----,Prism Armor,-----,-----,-----,-----,-----,97,107,101,127,89,79,600,NO,NO
+,#800,Necrozma,Dusk,Psychic,Steel,Prism Armor,-----,-----,-----,-----,-----,97,157,127,113,109,77,680,NO,NO
+,#800,Necrozma,Dawn,Psychic,Ghost,Prism Armor,-----,-----,-----,-----,-----,97,113,109,157,127,77,680,NO,NO
+,#800,Necrozma,Ultra,Psychic,Dragon,Neuroforce,-----,-----,-----,-----,-----,97,167,97,167,97,129,754,NO,NO
+,#801,Magearna,-----,Steel,Fairy,Soul-Heart,-----,-----,-----,-----,-----,80,95,115,130,115,65,600,NO,NO
+,#802,Marshadow,-----,Fighting,Ghost,Technician,-----,-----,-----,-----,-----,90,125,80,90,90,125,600,NO,NO
+,#803,Poipole,-----,Poison,-----,Beast Boost,-----,-----,Level Up - w/Dragon Pulse,-----,-----,67,73,67,73,67,73,420,NO,NO
+,#804,Naganadel,-----,Poison,Dragon,Beast Boost,-----,-----,-----,-----,-----,73,73,73,127,73,121,540,NO,NO
+,#805,Stakataka,-----,Rock,Steel,Beast Boost,-----,-----,-----,-----,-----,61,131,211,53,101,13,570,NO,NO
+,#806,Blacephalon,-----,Fire,Ghost,Beast Boost,-----,-----,-----,-----,-----,53,127,53,151,79,107,570,NO,NO
+,#807,Zeraora,-----,Electric,-----,Volt Absorb,-----,-----,-----,-----,-----,88,112,75,102,80,143,600,NO,NO
