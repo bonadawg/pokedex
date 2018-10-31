@@ -25,16 +25,22 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#018,Pidgeot,Normal,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,-----,Flying,-----,83,80,75,70,70,101,479,YES,YES
 ,#018,Pidgeot,Mega,Normal,Flying,No Guard,-----,-----,-----,-----,-----,83,80,80,135,80,121,579,NO,YES
 ,#019,Rattata,Normal,Normal,-----,Run Away,Guts,Hustle,Level Up - 20,Field,-----,30,56,35,25,35,72,253,NO,YES
+,#019,Rattata,Alolan,Dark,Normal,Gluttony,Hustle,Thick Fat,Level Up - 20 Night,Field,-----,30,56,35,25,35,72,253,NO,YES
 ,#020,Raticate,Normal,Normal,-----,Run Away,Guts,Hustle,-----,Field,-----,55,81,60,50,70,97,413,NO,YES
+,#020,Raticate,Alolan,Dark,Normal,Gluttony,Hustle,Thick Fat,-----,Field,-----,75,71,70,40,80,77,413,NO,YES
 ,#021,Spearow,Normal,Normal,Flying,Keen Eye,-----,Sniper,Level Up - 20,Flying,-----,40,60,30,31,31,70,262,YES,NO
 ,#022,Fearow,Normal,Normal,Flying,Keen Eye,-----,Sniper,-----,Flying,-----,65,90,65,61,61,100,442,YES,NO
 ,#023,Ekans,Normal,Poison,-----,Intimidate,Shed Skin,Unnerve,Level Up - 22,Field,Dragon,35,60,44,40,54,55,288,YES,NO
 ,#024,Arbok,Normal,Poison,-----,Intimidate,Shed Skin,Unnerve,-----,Field,Dragon,60,85,69,65,79,80,438,YES,NO
 ,#172,Pichu,Normal,Electric,-----,Static,-----,Lightningrod,Level Up - Friendship,-----,-----,20,40,15,35,35,60,205,YES,YES
 ,#025,Pikachu,Normal,Electric,-----,Static,-----,Lightningrod,Thunderstone,Field,Fairy,35,55,40,50,50,90,320,YES,YES
+,#025,Pikachu,Normal,Electric,-----,Static,-----,Lightningrod,Thunderstone - Alolan Region,Field,Fairy,35,55,40,50,50,90,320,YES,YES
 ,#026,Raichu,Normal,Electric,-----,Static,-----,Lightningrod,-----,Field,Fairy,60,90,55,90,80,110,485,YES,YES
+,#026,Raichu,Alolan,Electric,Psychic,Surge Surfer,-----,-----,-----,Field,Fairy,60,85,50,95,85,110,485,YES,YES
 ,#027,Sandshrew,Normal,Ground,-----,Sand Veil,-----,Sand Rush,Level Up - 22,Field,-----,50,75,85,20,30,40,300,YES,YES
-,#028,Sandslash,Normal,Ground,-----,Sand Veil,-----,Sand Rush,-----,Field,-----,75,100,110,45,55,65,450,YES,YES
+,#027,Sandshrew,Alolan,Ice,Steel,Snow Cloak,-----,Slush Rush,Ice Stone,Field,-----,50,75,90,10,35,40,300,YES,YES
+,#028,Sandslash,Normal,Ground,-----,Sand Veil,-----,Sand Rush,-----,Field,-----,75,100,120,25,65,65,450,YES,YES
+,#028,Sandslash,Alolan,Ice,Steel,Snow Cloak,-----,Slush Rush,-----,Field,-----,75,100,110,45,55,65,450,YES,YES
 ,#029,Nidoran (female),Normal,Poison,-----,Poison Point,Rivalry,Hustle,Level Up - 16,Monster,Field,55,47,52,40,40,41,275,YES,NO
 ,#030,Nidorina,Normal,Poison,-----,Poison Point,Rivalry,Hustle,Moon Stone,-----,-----,70,62,67,55,55,56,365,YES,NO
 ,#031,Nidoqueen,Normal,Poison,Ground,Poison Point,Rivalry,Sheer Force,-----,-----,-----,90,92,87,75,85,76,505,YES,NO
@@ -45,7 +51,9 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#035,Clefairy,Normal,Fairy,-----,Cute Charm,Magic Guard,Friend Guard,Moon Stone,Fairy,-----,70,45,48,60,65,35,323,YES,YES
 ,#036,Clefable,Normal,Fairy,-----,Cute Charm,Magic Guard,Unaware,-----,Fairy,-----,95,70,73,95,90,60,483,YES,YES
 ,#037,Vulpix,Normal,Fire,-----,Flash Fire,-----,Drought,Fire Stone,Field,-----,38,41,40,50,65,65,299,YES,YES
+,#037,Vulpix,Alolan,Ice,-----,Snow Cloak,-----,Snow Warning,Ice Stone,Field,-----,38,41,40,50,65,65,299,YES,YES
 ,#038,Ninetales,Normal,Fire,-----,Flash Fire,-----,Drought,-----,Field,-----,73,76,75,81,100,100,505,YES,YES
+,#038,Ninetales,Alolan,Ice,Fairy,Snow Cloak,-----,Snow Warning,-----,Field,-----,73,67,75,81,100,109,505,YES,YES
 ,#174,Igglybuff,Normal,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Level Up - Friendship,-----,-----,90,30,15,40,20,15,210,YES,YES
 ,#039,Jigglypuff,Normal,Normal,Fairy,Cute Charm,Competitive,Friend Guard,Moon Stone,Fairy,-----,115,45,20,45,25,20,270,YES,YES
 ,#040,Wigglytuff,Normal,Normal,Fairy,Cute Charm,Competitive,Frisk,-----,Fairy,-----,140,70,45,85,50,45,435,YES,YES
@@ -62,9 +70,13 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#048,Venonat,Normal,Bug,Poison,Compoundeyes,Tinted Lens,Run Away,Level Up - 31,Bug,-----,60,55,50,40,55,45,305,YES,YES
 ,#049,Venomoth,Normal,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,-----,Bug,-----,70,65,60,90,75,90,450,YES,YES
 ,#050,Diglett,Normal,Ground,-----,Sand Veil,Arena Trap,Sand Force,Level Up - 26,Field,-----,10,55,25,35,45,95,265,YES,YES
+,#050,Diglett,Alolan,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Level Up - 26,Field,-----,10,55,30,35,45,90,265,YES,YES
 ,#051,Dugtrio,Normal,Ground,-----,Sand Veil,Arena Trap,Sand Force,-----,Field,-----,35,80,50,50,70,120,405,YES,YES
+,#051,Dugtrio,Alolan,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,-----,Field,-----,35,100,60,50,70,110,425,YES,YES
 ,#052,Meowth,Normal,Normal,-----,Pickup,Technician,Unnerve,Level Up - 28,Field,-----,40,45,35,40,40,90,290,NO,YES
+,#052,Meowth,Alolan,Dark,-----,Pickup,Technician,Rattled,Level Up - Friendship,Field,-----,40,35,35,50,40,90,290,NO,YES
 ,#053,Persian,Normal,Normal,-----,Limber,Technician,Unnerve,-----,Field,-----,65,70,60,65,65,115,440,NO,YES
+,#053,Persian,Alolan,Dark,-----,Fur Coat,Technician,Rattled,-----,Field,-----,65,60,60,75,65,115,440,NO,YES
 ,#054,Psyduck,Normal,Water,-----,Damp,Cloud Nine,Swift Swim,Level Up - 33,Water 1,Field,50,52,48,65,50,55,320,YES,YES
 ,#055,Golduck,Normal,Water,-----,Damp,Cloud Nine,Swift Swim,-----,Water 1,Field,80,82,78,95,80,85,500,YES,YES
 ,#056,Mankey,Normal,Fighting,-----,Vital Spirit,Anger Point,Defiant,Level Up - 28,Field,-----,40,80,35,35,45,70,305,YES,YES
@@ -89,8 +101,11 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#072,Tentacool,Normal,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Level Up - 30,Water 3,-----,40,40,35,50,100,70,335,YES,YES
 ,#073,Tentacruel,Normal,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,-----,Water 3,-----,80,70,65,80,120,100,515,YES,YES
 ,#074,Geodude,Normal,Rock,Ground,Rock Head,Sturdy,Sand Veil,Level Up - 25,Mineral,-----,40,80,100,30,30,20,300,YES,YES
+,#074,Geodude,Alolan,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Level Up - 25,Mineral,-----,40,80,100,30,30,20,300,YES,YES
 ,#075,Graveler,Normal,Rock,Ground,Rock Head,Sturdy,Sand Veil,Trade,Mineral,-----,55,95,115,45,45,35,390,YES,YES
+,#075,Graveler,Alolan,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Trade,Mineral,-----,55,95,115,45,45,35,390,YES,YES
 ,#076,Golem,Normal,Rock,Ground,Rock Head,Sturdy,Sand Veil,-----,Mineral,-----,80,120,130,55,65,45,495,YES,YES
+,#076,Golem,Alolan,Rock,Electric,Magnet Pull,Sturdy,Galvanize,-----,Mineral,-----,80,120,130,55,65,45,495,YES,YES
 ,#077,Ponyta,Normal,Fire,-----,Run Away,Flash Fire,Flame Body,Level Up - 40,Field,-----,50,85,55,65,65,90,410,YES,YES
 ,#078,Rapidash,Normal,Fire,-----,Run Away,Flash Fire,Flame Body,-----,Field,-----,65,100,70,80,80,105,500,YES,YES
 ,#079,Slowpoke,Normal,Water,Psychic,Oblivious,Own Tempo,Regenerator,Level Up - 37,Monster,Water 1,90,65,65,40,40,15,315,YES,YES
@@ -107,7 +122,9 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#086,Seel,Normal,Water,-----,Thick Fat,Hydration,Ice Body,Level Up - 34,Water 1,Field,65,45,55,45,70,45,325,YES,YES
 ,#087,Dewgong,Normal,Water,Ice,Thick Fat,Hydration,Ice Body,-----,Water 1,Field,90,70,80,70,95,70,475,YES,YES
 ,#088,Grimer,Normal,Poison,-----,Stench,Sticky Hold,Poison Touch,Level Up - 38,Amorphous,-----,80,80,50,40,50,25,325,YES,YES
+,#088,Grimer,Alolan,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,Level Up - 38,Amorphous,-----,80,80,50,40,50,25,325,YES,YES
 ,#089,Muk,Normal,Poison,-----,Stench,Sticky Hold,Poison Touch,-----,Amorphous,-----,105,105,75,65,100,50,500,YES,YES
+,#089,Muk,Alolan,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,-----,Amorphous,-----,105,105,75,65,100,50,500,YES,YES
 ,#090,Shellder,Normal,Water,-----,Shell Armor,Skill Link,Overcoat,Water Stone,Water 3,-----,30,65,100,45,25,40,305,YES,NO
 ,#091,Cloyster,Normal,Water,Ice,Shell Armor,Skill Link,Overcoat,-----,Water 3,-----,50,95,180,85,45,70,525,YES,NO
 ,#092,Gastly,Normal,Ghost,Poison,Levitate,-----,-----,Level Up - 25,Amorphous,-----,30,35,30,100,35,80,310,YES,NO
@@ -124,9 +141,13 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#100,Voltorb,Normal,Electric,-----,Soundproof,Static,Aftermath,Level Up - 30,Mineral,-----,40,30,50,55,55,100,330,YES,YES
 ,#101,Electrode,Normal,Electric,-----,Soundproof,Static,Aftermath,-----,Mineral,-----,60,50,70,80,80,140,480,YES,YES
 ,#102,Exeggcute,Normal,Grass,Psychic,Chlorophyll,-----,Harvest,Leaf Stone,Grass,-----,60,40,80,60,45,40,325,YES,NO
+,#102,Exeggcute,Normal,Grass,Psychic,Chlorophyll,-----,Harvest,Leaf Stone - Alolan Region,Grass,-----,60,40,80,60,45,40,325,YES,NO
 ,#103,Exeggutor,Normal,Grass,Psychic,Chlorophyll,-----,Harvest,-----,Grass,-----,95,95,85,125,65,55,520,YES,NO
+,#103,Exeggutor,Alolan,Grass,Dragon,Frisk,-----,Harvest,-----,Grass,-----,95,105,85,125,75,45,530,YES,NO
 ,#104,Cubone,Normal,Ground,-----,Rock Head,Lightningrod,Battle Armor,Level Up - 28,Monster,-----,50,50,95,40,50,35,320,YES,NO
+,#104,Cubone,Normal,Ground,-----,Rock Head,Lightningrod,Battle Armor,Level Up - 28 Night in Alolan Region,Monster,-----,50,50,95,40,50,35,320,YES,NO
 ,#105,Marowak,Normal,Ground,-----,Rock Head,Lightningrod,Battle Armor,-----,Monster,-----,60,80,110,50,80,45,425,YES,NO
+,#105,Marowak,Alolan,Fire,Ghost,Cursed Body,Lightningrod,Rock Head,-----,Monster,-----,60,80,110,50,80,45,425,YES,NO
 ,#236,Tyrogue,Normal,Fighting,-----,Guts,Steadfast,Vital Spirit,Level Up - 20 Atk>Def,-----,-----,35,35,35,35,35,35,210,YES,YES
 ,#236,Tyrogue,Normal,Fighting,-----,Guts,Steadfast,Vital Spirit,Level Up - 20 Atk<Def,-----,-----,35,35,35,35,35,35,210,YES,YES
 ,#236,Tyrogue,Normal,Fighting,-----,Guts,Steadfast,Vital Spirit,Level Up - 20 Atk=Def,-----,-----,35,35,35,35,35,35,210,YES,YES
