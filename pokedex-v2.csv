@@ -1,4 +1,4 @@
-CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evolution Details,Egg Group 1,Egg Group 2,Base HP,Base Atk,Base Def,Base Sp. Atk,Base Sp. Def,Base Spd,Total Stats,OBTAINABLE IN,
+CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evolution Details,Egg Group 1,Egg Group 2,Base HP,Base Atk,Base Def,Base Sp Atk,Base Sp Def,Base Spd,Total Stats,OBTAINABLE IN,
 ,,,,,,,,,,EG 1,EG 2,HP,ATK,DEF,SP.ATK,SP.DEF,SPEED,TOTAL,POKEMON XY,POKEMON ORAS
 ,#001,Bulbasaur,Normal,Grass,Poison,Overgrow,-----,Chlorophyll,Level Up - 16,Monster,Grass,45,49,49,65,65,45,318,YES,NO
 ,#002,Ivysaur,Normal,Grass,Poison,Overgrow,-----,Chlorophyll,Level Up - 32,Monster,Grass,60,62,63,80,80,60,405,YES,NO
