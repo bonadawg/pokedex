@@ -591,7 +591,7 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#489,Phione,Normal,Water,-----,Hydration,-----,-----,-----,Water 1,Fairy,80,80,80,80,80,80,480,NO,NO
 ,#490,Manaphy,Normal,Water,-----,Hydration,-----,-----,-----,Water 1,Fairy,100,100,100,100,100,100,600,NO,NO
 ,#491,Darkrai,Normal,Dark,-----,Bad Dreams,-----,-----,-----,-----,-----,70,90,90,135,90,125,600,NO,NO
-,#492,Shaymin,Normal,Grass,-----,Natural Cure,-----,-----,-----,-----,-----,100,100,100,100,100,100,600,NO,NO
+,#492,Shaymin,Land,Grass,-----,Natural Cure,-----,-----,-----,-----,-----,100,100,100,100,100,100,600,NO,NO
 ,#492,Shaymin,Sky,Grass,Flying,Serene Grace,-----,-----,-----,-----,-----,100,103,75,120,75,127,600,NO,NO
 ,#493,Arceus,Normal,Normal,-----,Multitype,-----,-----,-----,-----,-----,120,120,120,120,120,120,720,NO,NO
 ,#494,Victini,Normal,Psychic,Fire,Victory Star,-----,-----,-----,-----,-----,100,100,100,100,100,100,600,NO,NO
@@ -651,8 +651,8 @@ CAUGHT,Dex #,Pokemon,Forme,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,Evol
 ,#547,Whimsicott,Normal,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,-----,Grass,Fairy,60,67,85,77,75,116,480,NO,YES
 ,#548,Petilil,Normal,Grass,-----,Chlorophyll,Own Tempo,Leaf Guard,Sun Stone,Grass,-----,45,35,50,70,50,30,280,YES,YES
 ,#549,Lilligant,Normal,Grass,-----,Chlorophyll,Own Tempo,Leaf Guard,-----,Grass,-----,70,60,75,110,75,90,480,YES,YES
-,#550,Basculin,Red,Water,-----,Reckless,Adaptability,Mold Breaker,-----,Water 2,-----,70,92,65,80,55,98,460,YES,NO
-,#550,Basculin,Blue,Water,-----,Rock Head,Adaptability,Mold Breaker,-----,Water 2,-----,70,92,65,80,55,98,460,YES,NO
+,#550,Basculin,Red-striped,Water,-----,Reckless,Adaptability,Mold Breaker,-----,Water 2,-----,70,92,65,80,55,98,460,YES,NO
+,#550,Basculin,Blue-striped,Water,-----,Rock Head,Adaptability,Mold Breaker,-----,Water 2,-----,70,92,65,80,55,98,460,YES,NO
 ,#551,Sandile,Normal,Ground,Dark,Intimidate,Moxie,Anger Point,Level Up - 29,Field,-----,50,72,35,35,35,65,292,YES,YES
 ,#552,Krokorok,Normal,Ground,Dark,Intimidate,Moxie,Anger Point,Level Up - 40,Field,-----,60,82,45,45,45,74,351,YES,YES
 ,#553,Krookodile,Normal,Ground,Dark,Intimidate,Moxie,Anger Point,-----,Field,-----,95,117,80,65,70,92,519,YES,YES
