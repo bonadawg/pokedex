@@ -13,7 +13,7 @@ if __name__ == '__main__':
         reader = csv.DictReader(fd)
         for row in reader:
             name = row['Pokemon']
-            if name in data:
+            if name in data and row['Forme'] != 'Normal':
                 name += f' {row["Forme"]}'
             data[name] = row
     
